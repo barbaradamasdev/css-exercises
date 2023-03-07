@@ -10,7 +10,45 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  text-align: center;
 }
+
+.bloco {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+  margin-top: 32px;
+}
+
+.block {
+ text-align: center;
+ flex-basis: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* do not edit this footer */
 .footer {
@@ -24,3 +62,4 @@ img {
   justify-content: center;
   background: #eee;
 }
+
